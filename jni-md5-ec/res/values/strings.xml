@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">jni-md5</string>
+    <string name="app_name">jni-md5-ec</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
